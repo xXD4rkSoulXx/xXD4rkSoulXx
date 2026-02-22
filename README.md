@@ -33,4 +33,5 @@ Tenho interesse em explorar **Kali Linux** e aprofundar conhecimentos em **Ciber
 ---
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=xXD4rkSoulxx&show_icons=true&theme=react&hide_border=true&line_height=40) ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xXD4rkSoulXx&theme=dark&show_icons=true&hide_border=true&layout=compact&line_height=40&hide=css)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=xXD4rkSoulxx&show_icons=true&theme=dark&hide_border=true&line_height=40)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xXD4rkSoulXx&theme=dark&show_icons=true&hide_border=true&layout=compact&line_height=40)
